@@ -1,13 +1,11 @@
-# 🔔 Notificações API - Bloco 1
-
-Este projeto é uma API para gestão de eventos e notificações.
-
-## 🛠️ Tecnologias
-- Node.js e Express
-- Swagger para documentação
-- Insomnia para testes
-
-## 🚀 Como usar
-1. `npm install`
-2. `npm start`
-3. Aceda a `http://localhost:3000/api-docs`
+# 🔔 Notificações API
+API REST para o módulo de notificações por e-mail de uma plataforma de gerenciamento de eventos
+## 📋 Sobre o Projeto
+Este projeto faz parte da Situação de Aprendizagem do curso de Programação Back-End do SENAI.
+O módulo é responsável por enviar notificações (confirmação de inscrição, lembretes)
+para participantes de eventos.
+## 🚀 Como Rodar
+1. Clone o repositório:
+```bash
+git clone https://github.com/SEU-USUARIO/notificacoes-api.git
+```
