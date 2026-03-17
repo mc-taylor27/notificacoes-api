@@ -1,10 +1,13 @@
-# Notificações API
-API para módulo de notificações por e-mail de uma plataforma de eventos.
-## Como rodar
-1. Clone o repositório
-2. Execute `npm install`
-3. Execute `npm start`
-4. Acesse `http://localhost:3000`
-## Tecnologias
-- Node.js
-- Express.js
+# 🔔 Notificações API - Bloco 1
+
+Este projeto é uma API para gestão de eventos e notificações.
+
+## 🛠️ Tecnologias
+- Node.js e Express
+- Swagger para documentação
+- Insomnia para testes
+
+## 🚀 Como usar
+1. `npm install`
+2. `npm start`
+3. Aceda a `http://localhost:3000/api-docs`
